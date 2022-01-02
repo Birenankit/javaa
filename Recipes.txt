@@ -6,6 +6,16 @@ collection
 multithreading
 lambda
 
+
+metaspace
+Stream 
+
+
+Thankyou
+
+Done my changes
+
 Thankyou:)
 
 final copy
+
